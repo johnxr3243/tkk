@@ -1,0 +1,19 @@
+{
+  "env": {
+    "TOKEN": "",
+    "PREFIX": "",
+    "MongoDB_TOKEN": "mongodb+srv://rlx:rlx@rlx2.yulr9.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+  },
+  "ticket_category": {
+    "generalHelp": "949935674272907266",
+    "bugReport": "949935674272907266",
+    "orderBot": "949935674272907266",
+    "staffApply": "949935674272907266",
+    "partnerApply": "949935674272907266",
+    "sourceCode": "949935674272907266"
+  },
+  "ticket_extra": {
+    "transcript_channel": "954041373856759859",
+    "ticket_supporter_role": "953684140333604995"
+  }
+}
